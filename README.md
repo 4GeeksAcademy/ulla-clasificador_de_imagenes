@@ -54,6 +54,6 @@ A continuación se muestran predicciones reales del modelo sobre imágenes no vi
 | ![](./predicciones_demo/cat_1.png) | ![](./predicciones_demo/dog_1.png) |
 | ![](./predicciones_demo/cat_2.png) | ![](./predicciones_demo/dog_2.png) |
 | ![](./predicciones_demo/cat_3.png) | ![](./predicciones_demo/dog_3.png) |
-1. Clona este repositorio:
+
 
 
