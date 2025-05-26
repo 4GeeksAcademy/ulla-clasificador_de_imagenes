@@ -1,3 +1,5 @@
-# Ignorar archivos pesados que dan error en GitHub
+# Ignorar archivos pesados para evitar errores al hacer push a GitHub
 modelo_perros_gatos.h5
 PetImages.zip
+*.png
+
